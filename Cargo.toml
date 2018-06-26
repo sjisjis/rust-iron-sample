@@ -1,0 +1,9 @@
+[package]
+name = "iron"
+version = "0.1.0"
+authors = ["shouji <shouji@ninja.co.jp>"]
+
+[dependencies]
+
+[dependencies.iron]
+version = "*"
